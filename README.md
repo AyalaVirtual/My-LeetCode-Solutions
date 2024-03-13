@@ -4,7 +4,7 @@
 ## Backstory  
 Since 2022, I've been through 3 coding bootcamps - 2 Full Stack Java bootcamps, and 1 that focused more on cloud development. Out of all 3 of my bootcamps, none of them taught data structures and algorithms. The most advanced data structure we were taught were arrays. 
 
-I recently applied for an apprenticeship with a unicorn startup company. Around the time that I first applied, I started taking several courses (AlgoMonster, Interview Cake, and Grokking the Coding Interview) on data structures and algorithms. I started grinding on LeetCode before I even knew I had made it to the technical round of the interview process. These LeetCode solutions are all the problems that I've solved since finding out I made it to the technical round. 
+I recently applied for an apprenticeship with a unicorn startup company. Around the time that I first applied, I started taking several courses (AlgoMonster, Interview Cake, and Grokking the Coding Interview) on data structures and algorithms. I started grinding on LeetCode before I even knew I had made it to the technical round of the interview process. These LeetCode solutions are all the problems that I've solved since then. 
 
 Since I had only ever done 1 technical interview before and I knew that you're supposed to explain your thought process behind each solution, I started recording myself while solving different LeetCode problems, talking out loud and explaining my approach and posting the videos on my LinkedIn. Each solution in this repo has an explanation which I've typed out in my own words, but if a walkthrough in real-time would be more helpful for you to understand, I've included the link to my LinkedIn profile below. 
 
